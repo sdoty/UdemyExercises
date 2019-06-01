@@ -1,2 +1,2 @@
 # UdemyExercises
-Examples from my Intro to Apex Udemy course.
+Examples gathered from my "Intro to Apex" Udemy course.
