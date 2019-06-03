@@ -56,3 +56,16 @@ System.debug('results5 is '+results5 ); //true
 
 String s8 = 'deepika';
 System.debug('s8 in uppercase = '+ s8.toUpperCase());
+
+//toLowerCase method
+
+String s9 = 'HELLO, HOW ARE YOU?';
+system.debug('in lower case = '+ s9.toLowerCase());
+
+//independent test of swapCase()
+String s10 = 'I Wonder If This Will Work?';
+System.debug('let see... ' + s10.swapCase());
+
+
+
+
