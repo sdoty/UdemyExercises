@@ -38,3 +38,7 @@ String s6 = 'MyTutorialRack';
 String s7 = 'myTutoriaLrack';
 Boolean result4 = s6.equals(s7);
 System.debug('is s6 == s7?'+result4);//false
+
+// Ignore case
+Boolean results5 = s7.equalsIgnoreCase(s6);
+System.debug('results5 is '+results5 ); //true
