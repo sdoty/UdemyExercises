@@ -42,3 +42,17 @@ System.debug('is s6 == s7?'+result4);//false
 // Ignore case
 Boolean results5 = s7.equalsIgnoreCase(s6);
 System.debug('results5 is '+results5 ); //true
+
+//equals method
+String s6 = 'myTutorialRack';
+String s7 = 'myTutorialraCk';
+Boolean result4 = s6.equals(s7);
+System.debug('is s6 == s7?'+result4);
+// Ignore case
+Boolean results5 = s7.equalsIgnoreCase(s6);
+System.debug('results5 is '+results5 ); //true
+
+//toUpperCase method
+
+String s8 = 'deepika';
+System.debug('s8 in uppercase = '+ s8.toUpperCase());
