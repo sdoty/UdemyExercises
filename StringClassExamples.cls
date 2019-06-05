@@ -66,6 +66,11 @@ system.debug('in lower case = '+ s9.toLowerCase());
 String s10 = 'I Wonder If This Will Work?';
 System.debug('let see... ' + s10.swapCase());
 
+// concatenate
+String s11 = 'Shelley ';
+String s12 = 'Doty';
+System.debug('concatenating two strings = '+ s11+s12);
+
 
 
 
