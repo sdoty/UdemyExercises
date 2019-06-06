@@ -12,3 +12,10 @@ System.debug (s6); //-2
 String myName = 'shelley doty';
 Integer Inn= myName.indexOf('ll');
 System.debug('inn =  '+Inn); //3?
+
+//contains excercise
+
+String name1 = 'shelley';
+String name2 = 'hello';
+System.debug('using contains method '+name1.contains('ell') );
+
