@@ -7,3 +7,8 @@ String s4 = 'abef';
 String s5 = 'cdgh';
 Integer s6= s4.compareTo(s5);
 System.debug (s6); //-2
+
+
+String myName = 'shelley doty';
+Integer Inn= myName.indexOf('ll');
+System.debug('inn =  '+Inn); //3?
